@@ -16,7 +16,7 @@ test('testing makeUser function', function(assert) {
         name: 'dani',
         class: 'ranger',
         completed: {},
-        HP: 35,
+        hp: 35,
         gold: 0,
     }; 
     //Act 

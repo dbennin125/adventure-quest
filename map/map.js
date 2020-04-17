@@ -5,6 +5,6 @@ const ul = document.getElementById('list');
 
 quests.forEach((quest) => {
     const li = makeListItemLink(quest);
-
+    
     ul.appendChild(li);
 });
